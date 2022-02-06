@@ -11,7 +11,7 @@
 verbose: false
 config-version: 22
 settings:
-  server-mod-name: §dURHOST Optimised Server
+  server-mod-name: URHOST Optimised
   tps-catchup: true
   lagging-threshold: 19.0
   dont-send-useless-entity-packets: true
