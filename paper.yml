@@ -1,6 +1,6 @@
 world-settings:
   default:
-    max-auto-save-chunks-per-tick: 6
+    max-auto-save-chunks-per-tick: 8
     max-entity-collisions: 2
     mob-spawner-tick-rate: 2
     non-player-arrow-despawn-rate: 60
