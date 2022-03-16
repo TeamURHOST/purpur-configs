@@ -36,8 +36,30 @@ world-settings:
     hopper:
       disable-move-event: true
     despawn-ranges:
-      hard: 56
-      soft: 30
+      monster:
+        soft: 30
+        hard: 56
+      creature:
+        soft: 30
+        hard: 56
+      ambient:
+        soft: 30
+        hard: 56
+      axolotls:
+        soft: 30
+        hard: 56
+      underground_water_creature:
+        soft: 30
+        hard: 56
+      water_creature:
+        soft: 30
+        hard: 56
+      water_ambient:
+        soft: 30
+        hard: 56
+      misc:
+        soft: 30
+        hard: 56
     game-mechanics:
       alt-item-despawn-rate:
         enabled: true
