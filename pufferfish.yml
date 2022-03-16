@@ -1,1 +1,4 @@
-max-loads-per-projectile=8
+dab:
+  enabled: true
+  max-tick-freq: 20
+  activation-dist-mod: 7
