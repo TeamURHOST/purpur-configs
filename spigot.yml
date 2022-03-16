@@ -5,6 +5,7 @@ world-settings:
     arrow-despawn-rate: 300
     mob-spawn-range: 2
     nerf-spawner-mobs: true
+    spawner-nerfed-mobs-should-jump: true
     entity-activation-range:
       animals: 16
       monsters: 24
